@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishenrique01&label=Profile%20views&color=0e75b6&style=flat" alt="luishenrique01" /> </p>
 
-- 🔭 Projeto mais recente [Face Recognition Start](https://github.com/LuisHenrique01/face-recognition-start)
+- 🔭 Projeto mais recente [Face Recognition Start](https://github.com/LuisHenrique01/api-2beauty)
 
 - 🌱 Atualmente estou aprendendo **OpenCV, Scikit-Learn e DataVisualization**
 
