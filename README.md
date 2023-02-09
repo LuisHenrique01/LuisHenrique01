@@ -6,9 +6,11 @@
 
 - 🌱 Atualmente estou aprendendo **Infraestrutura AWS**
 
-- 👯 Um dos meus principais projetos [API - 2BEAUTY](https://github.com/LuisHenrique01/api-2beauty)
+- :neckbeard: Trabalhando atualmente [Beers API](https://github.com/LuisHenrique01/beer_api/tree/main/api_cervejas)
 
-- 🤝 Um dos meus projetos com Django [MusicAPI](https://github.com/LuisHenrique01/music-api)
+- :trophy: Um dos meus principais projetos [API - 2BEAUTY](https://github.com/LuisHenrique01/api-2beauty)
+
+- :shipit: Um dos meus projetos com Django [MusicAPI](https://github.com/LuisHenrique01/music-api)
 
 - 💬 Conhecimento profundo em **Django, DRF e Chalice AWS**
 
