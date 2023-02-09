@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Luis Henrique</h1> :shipit:
+<h1 align="center">Olá 👋, eu sou Luis Henrique </h1>
 <h3 align="center">Sou desenvolvedor backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishenrique01&label=Profile%20views&color=0e75b6&style=flat" alt="luishenrique01" /> </p>
