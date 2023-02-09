@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishenrique01&label=Profile%20views&color=0e75b6&style=flat" alt="luishenrique01" /> </p>
 
-- 🔭 Projeto mais recente [API - 2BEAUTY](https://github.com/LuisHenrique01/api-2beauty)
 
 - 🌱 Atualmente estou aprendendo **Infraestrutura AWS**
 
-- 👯 Um dos meus principais projetos [API SIG Covid](https://sig19.herokuapp.com/)
+- 👯 Um dos meus principais projetos [API - 2BEAUTY](https://github.com/LuisHenrique01/api-2beauty)
 
 - 🤝 Um dos meus projetos com Django [MusicAPI](https://github.com/LuisHenrique01/music-api)
 
-- 💬 Conhecimento profundo em **Django e DRF**
+- 💬 Conhecimento profundo em **Django, DRF e Chalice AWS**
 
 - 📫 Como me encontrar **luisrocha1201@gmail.com**
 
@@ -22,8 +21,6 @@
 <a href="https://instagram.com/luis_h_bueno.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luis_h_bueno.py" height="30" width="40" /></a>
 <a href="https://discord.gg/Luis Henrique#5267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luis Henrique#5267" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luishenrique01&count_private=true&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=pt-br&layout=compact" alt="luishenrique01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luishenrique01&count_private=true&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&cache_seconds=1800&locale=pt-br" alt="luishenrique01" /></p>
 
