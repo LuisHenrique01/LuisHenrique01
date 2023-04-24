@@ -22,6 +22,4 @@
 <a href="https://discord.gg/Luis Henrique#5267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luis Henrique#5267" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luishenrique01&count_private=true&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&cache_seconds=1800&locale=pt-br" alt="luishenrique01" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luishenrique01&theme=dark" alt="luishenrique01" /></p>
