@@ -20,7 +20,6 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/luis-henrique-b-aa8669136" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil do LinkedIn" height="30" width="40" /></a>
-  <a href="https://kaggle.com/luishenrique1201" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Perfil do Kaggle" height="30" width="40" /></a>
   <a href="https://instagram.com/luis_h_bueno.py" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Perfil do Instagram" height="30" width="40" /></a>
   <a href="https://discord.gg/Luis Henrique#5267" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Perfil do Discord" height="30" width="40" /></a>
 </p>
